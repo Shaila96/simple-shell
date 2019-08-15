@@ -1,6 +1,6 @@
 # A Simple Shell
 
-The Simple Shell is an implementation of command language interpreter with processes and input/output redirection. This is shell is developed in C programming language.
+The Simple Shell is an implementation of command language interpreter with processes and input/output redirection.
  
 
 
