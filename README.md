@@ -1,6 +1,6 @@
-# A Simple Shell
+# Unix Based Shell
 
-The Simple Shell is an implementation of command language interpreter with processes and input/output redirection.
+The Shell is an implementation of command language interpreter with processes and input/output redirection. This program simulates the working of command line interface in Unix-like environment.
  
 
 
