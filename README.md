@@ -3,6 +3,14 @@
 The Shell is an implementation of command language interpreter with processes and input/output redirection. This program simulates the working of command line interface in Unix-like environment.
  
 
+## Specifications
+- Prompt for input from the user by its standard input
+- A single command consists of a sequence of arguments separated by either an arbitrary number of spaces or one of the two I/O redirection characters (“<” and “>”)
+- Able to handle background processes and input/output redirection
+- **processes**: Displays a list of the background processes (process id and original command line) that have been initiated by the shell and are not yet terminated
+- **exit**: kills all background processes the shell has forked has forked and terminates it
+- An error message is returned for an inaccessible program file specified in the input line
+
 
 ## Compile and Execute the program
 
