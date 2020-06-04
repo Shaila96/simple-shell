@@ -8,7 +8,7 @@ The Shell is an implementation of command language interpreter with processes an
 - A single command consists of a sequence of arguments separated by either an arbitrary number of spaces or one of the two I/O redirection characters (“<” and “>”)
 - Able to handle background processes and input/output redirection
 - **processes**: Displays a list of the background processes (process id and original command line) that have been initiated by the shell and are not yet terminated
-- **exit**: kills all background processes the shell has forked has forked and terminates it
+- **exit**: Kills all background processes the shell has forked has forked and terminates it
 - An error message is returned for an inaccessible program file specified in the input line
 
 
